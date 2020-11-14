@@ -1,0 +1,1 @@
+$((function(){var n=Math.round(new Date("10/24/2020 00:00:00").getTime()/1e3);$("#runtime").flipcountdown({size:"xs",tick:function(){var t=function(n){return n>9?n:"0"+n},e=Math.abs(Math.round((new Date).getTime()/1e3)-n),r=parseInt(e/86400),a=parseInt(e%86400/3600),i=parseInt(e%86400%3600/60),u=e%86400%3600%60;return t(r)+" "+t(a)+" "+t(i)+" "+t(u)}})}));
