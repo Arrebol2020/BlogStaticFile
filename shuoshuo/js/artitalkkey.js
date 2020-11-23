@@ -1,6 +1,6 @@
 new Artitalk({
-    appId: '你的应用ID',
-    appKey: '你的应用key',
+    appId: 'F9XudEV4y94Ux17Geu7TzFS1-MdYXbMMI',
+    appKey: 'jwa37qRRCy5cG8I6r5QnhkOT',
 	pageSize: 1,
 	color1: "#b30070",
 	color2: "rgb(229, 91, 178)",
