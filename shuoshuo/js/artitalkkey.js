@@ -2,8 +2,8 @@ new Artitalk({
     appId: 'F9XudEV4y94Ux17Geu7TzFS1-MdYXbMMI',
     appKey: 'jwa37qRRCy5cG8I6r5QnhkOT',
 	pageSize: 1,
-	color1: "#1a94bc",
-	color2: "#1677b3",
+	color1: "#8abcd1",
+	color2: "#c6e6e8",
 });
 //$(".power").children("br").remove();
 $(".power").css("padding","10px");
