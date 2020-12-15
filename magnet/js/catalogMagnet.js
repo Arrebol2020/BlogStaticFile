@@ -10,13 +10,21 @@ const catalogMagnet = new Vue({
 			"https://cdn.jsdelivr.net/gh/Arrebol2020/BlogImage@main/images/GroupLearning.png",
 			"https://cdn.jsdelivr.net/gh/Arrebol2020/BlogImage@main/images/Paper.png",
 			"https://cdn.jsdelivr.net/gh/Arrebol2020/BlogImage@main/images/Transshipment.png",
+			"https://cdn.jsdelivr.net/gh/Arrebol2020/BlogImage@main/images/ReinforceLearning.png",
+			"https://cdn.jsdelivr.net/gh/Arrebol2020/BlogImage@main/images/Improve.png",
+			"https://cdn.jsdelivr.net/gh/Arrebol2020/BlogImage@main/images/Improve.png",
+			"https://cdn.jsdelivr.net/gh/Arrebol2020/BlogImage@main/images/Improve.png",
 		],
 		//这里是磁贴描述信息
 		describe:[
-			"机器学习",
+			"学习课程",
 			"组队学习",
 			"论文笔记",
 			"转载文章",
+			"强化学习",
+			"waiting1",
+			"waiting2",
+			"waiting3",
 		],
 		//这里是磁贴的文字颜色
 		figLetColor: {color:'white'},
