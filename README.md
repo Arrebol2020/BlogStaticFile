@@ -1,1 +1,2 @@
 # BlogStaticFile
+# for my blog
