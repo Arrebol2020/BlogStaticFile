@@ -1,18 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap');
 
 body {
-    font-family: 'ZCOOL KuaiLe', cursive, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Lato, Roboto, "PingFang SC", "STZhongsong", "Lantinghei SC", sans-serif;
+    font-family: 'ZCOOL KuaiLe', cursive;
 }
 
 h1#site-title {
-    font-family: 'ZCOOL KuaiLe', cursive, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Lato, Roboto, "PingFang SC", "STZhongsong", "Lantinghei SC", sans-serif;
+    font-family: 'ZCOOL KuaiLe', cursive;
 }
 
 span#subtile{
-    font-family: 'ZCOOL KuaiLe', cursive, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Lato, Roboto, "PingFang SC", "STZhongsong", "Lantinghei SC", sans-serif;
+    font-family: 'ZCOOL KuaiLe', cursive;
 }
 
 a#site-name{
-    font-family: 'ZCOOL KuaiLe', cursive, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Lato, Roboto, "PingFang SC", "STZhongsong", "Lantinghei SC", sans-serif;
+    font-family: 'ZCOOL KuaiLe', cursive;
 }
       
